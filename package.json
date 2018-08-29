@@ -1,0 +1,17 @@
+{
+  "name": "slack-docker-hub",
+  "version": "1.0.0",
+  "description": "Takes docker hub webhooks and send them to slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team Browsers Lab",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^7.2.0",
+    "confidence": "^3.0.2",
+    "hapi": "^17.5.0",
+    "wreck": "^14.0.2"
+  }
+}

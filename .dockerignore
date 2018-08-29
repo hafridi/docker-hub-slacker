@@ -1,0 +1,9 @@
+package-lock.json
+npm_debug.log
+.dockerignore
+.gitignore
+.gitattributes
+README.md
+
+node_modules/
+.git/
